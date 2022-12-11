@@ -12,3 +12,5 @@ My name is Vladimir Volodin. I started learning the programming language at the 
 * Css
 * Java Script
 
+## Education
+ High School education
