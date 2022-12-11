@@ -14,3 +14,6 @@ My name is Vladimir Volodin. I started learning the programming language at the 
 
 ## Education
  High School education
+
+## Language
+English -  A2 
